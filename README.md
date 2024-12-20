@@ -1,0 +1,2 @@
+# StudioDisplayBright
+StudioDisplay Windows brightness
